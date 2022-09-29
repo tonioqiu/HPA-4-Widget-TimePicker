@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
         textview1=(TextView)findViewById(R.id.textView1);
         timepicker=(TimePicker)findViewById(R.id.timePicker);
 
